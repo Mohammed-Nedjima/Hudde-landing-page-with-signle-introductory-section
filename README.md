@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - Huddle landing page
 
 This is a solution to the [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
@@ -21,7 +21,7 @@ The challenge is to build a landing page with only the hero section that matches
 
 ### Links
 
-- Live Site URL: [Github pages](https://mohammed-nedjima.github.io/qr-code-component/)
+- Live Site URL: [Github pages](https://mohammed-nedjima.github.io/Hudde-landing-page-with-signle-introductory-section/)
 
 ### Built with
 
